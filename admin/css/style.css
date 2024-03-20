@@ -1,0 +1,11 @@
+a {
+    text-decoration: none !important;
+}
+#list a.sidebar-link {
+    display: flex;
+    align-items: center;
+}
+main > #example
+{
+background-color:white !important;
+}

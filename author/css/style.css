@@ -1,0 +1,8 @@
+#sidebar a, table a
+{
+    text-decoration: none;
+}
+.sidebar-brand h3
+{
+margin: 0;
+}
